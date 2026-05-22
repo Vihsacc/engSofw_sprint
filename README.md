@@ -52,3 +52,8 @@ safeguard-industrial/
 ├── src/                         # Código-fonte (Sprint 2+)
 └── sprint-reviews/             
     └── sprint1-review
+
+
+```
+Vitor Saccardo da Silva 
+RM 555611
